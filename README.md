@@ -4,7 +4,31 @@ The goal for this project was to be more prepared for the next technical assessm
 
 ## 1. Project description 👇
  
-### **_Development of KPI Dashboards and Reporting System, using Python, Pandas, and NLP tools._**
+### _Part I: Exploratory Data Analysis (EDA) with Python._
+- Get to know the domain
+- Explore your data
+- Clean your data
+- Take a look and find connections between data
+
+### _Part II: ETL & Visualization with Power BI._
+- Plot your data in a meaningful way
+
+### _Part III: Predictions with Machine Learning._
+- Do you have any hypothesis?
+- Can you make any kind of prediction: regression and/or classification?
+
+#### Storytelling
+
+- What metrics are you obtaining?
+- Explain your conclusions
+- Shape your new data and conclusions in such a way that is appealing to the listener and tells a story
+
+### Extra:
+#### Enrich your dataset
+
+- Add value: obtain related data by web scraping or with APIs.
+- 
+### _Part IV: Load the processed information into a database._
 
 For this project I used a "Car Fuel Consumption" dataset from [Kaggle](https://www.kaggle.com/datasets/anderas/car-consume/). 
 - First, I am going to get insights for the current status about how much is the consumption per each gas fuel type. After the data cleaning process, the output will be explored and saved in Tableau Public.
