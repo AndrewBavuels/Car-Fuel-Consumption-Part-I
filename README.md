@@ -5,7 +5,6 @@ The goal for this project was to be more prepared for the next technical assessm
 ## 1. Project description 👇
  
 ### _Part I: Exploratory Data Analysis (EDA) Visualization with Python._
-"_Which of two fuels is cheaper, E10 or SP 98?_"
 
 For this project, I used a "Car Fuel Consumption" dataset from [Kaggle](https://www.kaggle.com/datasets/anderas/car-consume/). 
 First, I am going to get insights into the current status about how much is the consumption per gas fuel type. After the data cleaning process...
@@ -13,7 +12,7 @@ First, I am going to get insights into the current status about how much is the 
 - Question #1: Which gas type consumes the most? E10 or SP98?
 - Question #2: How much is the consumption?
 - Question #3: It consumes 0.4 liters more with E10 gas, isn't it?
-
+- Question #4: Which of the two fuels is cheaper, E10 or SP 98?
 
 
 #### Storytelling
