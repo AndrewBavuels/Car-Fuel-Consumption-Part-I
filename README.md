@@ -5,14 +5,15 @@ The goal for this project was to be more prepared for the next technical assessm
 ## 1. Project description 👇
  
 ### _Part I: Exploratory Data Analysis (EDA) Visualization with Python._
+
+For this project, I used a "Car Fuel Consumption" dataset from [Kaggle](https://www.kaggle.com/datasets/anderas/car-consume/). 
+First, I am going to get insights into the current status about how much is the consumption per gas fuel type. After the data cleaning process...
+
 - Question #1: Which gas type consumes the most? E10 or SP98?
 - Question #2: How much is the consumption?
 - Question #3: It consumes 0.4 liters more with E10 gas, isn't it?
 
 
-### _Part III: Predictions with Machine Learning._
-- Do you have any hypothesis?
-- Can you make any kind of prediction: regression and/or classification?
 
 #### Storytelling
 
@@ -20,16 +21,9 @@ The goal for this project was to be more prepared for the next technical assessm
 - Explain your conclusions
 - Shape your new data and conclusions in such a way that is appealing to the listener and tells a story
 
-### Extra:
-#### Enrich your dataset
 
-- Add value: obtain related data by web scraping or with APIs.
-- 
-### _Part IV: Load the processed information into a database._
 
-For this project I used a "Car Fuel Consumption" dataset from [Kaggle](https://www.kaggle.com/datasets/anderas/car-consume/). 
-- First, I am going to get insights for the current status about how much is the consumption per each gas fuel type. After the data cleaning process, the output will be explored and saved in Tableau Public.
-- Then, I am going to get more information to predict the consumption according to the features of the dataset, by getting the model training in Machine Learning.
+
 
 
 
