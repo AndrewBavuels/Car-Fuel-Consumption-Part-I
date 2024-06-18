@@ -4,14 +4,11 @@ The goal for this project was to be more prepared for the next technical assessm
 
 ## 1. Project description 👇
  
-### _Part I: Exploratory Data Analysis (EDA) with Python._
-- Get to know the domain
-- Explore your data
-- Clean your data
-- Take a look and find connections between data
+### _Part I: Exploratory Data Analysis (EDA) Visualization with Python._
+- Question #1: Which gas type consumes the most? E10 or SP98?
+- Question #2: How much is the consumption?
+- Question #3: It consumes 0.4 liters more with E10 gas, isn't it?
 
-### _Part II: ETL & Visualization with Power BI._
-- Plot your data in a meaningful way
 
 ### _Part III: Predictions with Machine Learning._
 - Do you have any hypothesis?
