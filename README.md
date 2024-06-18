@@ -1,4 +1,4 @@
-# **Car Fuel Consumption - Analysis and Predictions 🚗📈🔮**
+# **Car Fuel Consumption Part I - Analysis and Predictions 🚗📈🔮**
 
 The goal for this project was to be more prepared for the next technical assessment as part of a selection process. Once more, I want show a case in which I will apply **advanced analytics** involving **data visualization** and **predictions with machine learning** regarding to Car Fuel Consumption.
 
