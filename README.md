@@ -17,6 +17,9 @@ First, I am going to get insights into the current status about how much is the 
 - Question #3: It consumes 0.4 liters more with E10 gas, isn't it?
 - Question #4: Which of the two fuels is cheaper, E10 or SP 98?
 
+
+![Driving Fast And Furious GIF by The Fast Saga](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtkcHMzbTJsODltamZtaDFhN3cxM2d6OTRncWVtYng3OWtkOGIzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2EWa4uTH39d2NTJRGy/giphy.gif)
+
 ### I. Exploratory Data Analysis (EDA)
 
 Here is a little extract from Jupyter Notebook, using Python and their libraries (described down in the Technology Stack section).
