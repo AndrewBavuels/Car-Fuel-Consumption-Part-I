@@ -2,7 +2,8 @@
 
 The goal for this project was to be more prepared for the next technical assessment as part of a selection process. Once more, I want to show a case in which I will apply **advanced analytics** involving **data visualization** and **predictions with machine learning** regarding Car Fuel Consumption.
 
-![Let's Get the Party Started](https://media.giphy.com/media/i79P9wUfnmPyo/giphy.gif)
+![Let's Get the Party Started](https://media.giphy.com/media/lNGyr4FWfRO8S8LARn/giphy.gif)
+
 
 ## 1. Project description 👇
  
