@@ -109,21 +109,13 @@ To show what it looks like in action, [click here](https://github.com/AndrewBavu
 ## **4. Folder structure 📁**
 ```
 └── project
-    ├── architecture
-    │   └── Dunder Mifflin data pipeline.png
     ├── data
     │   ├── raw
-    │   │   ├── DIM sku.xlsx
-    │   │   ├── DIM state_branches.xlsx
-    │   │   └── FACT sales.xlsx
-    │   ├── processed
-    │   │   └── FACT sales.xlsx
-    │   └── ready
-    │       └── sales.xlsx
+    │   │   └── measurements.csv
+    │   └── pre_processed
+    │   │   └── pre_processed_gas_df.csv
     ├── notebooks
     │   └── main.ipynb
-    ├── report
-    │   └── Dunder Mifflin Sales Report.pbix
     └── README.md    
 ```
 ## **6. Next steps 💡**
