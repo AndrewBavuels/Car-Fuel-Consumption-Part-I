@@ -20,6 +20,10 @@ We can observe the **consume rate (liter per kms),** regarding the car speed rec
 
 - Question #2: How much is the consumption?
 
+### Code Snippet:
+
+![question_2](https://github.com/AndrewBavuels/Car-Fuel-Consumption-Part-I/blob/main/images/question_2.png)
+
 ### Stats Overview
 
 | gas_type | count | mean     | std      | min  | 25%    | 50%    | 75%    | max  |
