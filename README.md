@@ -72,6 +72,16 @@ Both gas types show similar patterns in terms of distribution and spread **(std)
 
 ### Question #3: It consumes 0.4 liters more with E10 gas, isn't it?
 
+Here is the reason why I created a **relational-ish table df**:
+
+#### Code Snippet:
+
+![question_3.1](https://github.com/AndrewBavuels/Car-Fuel-Consumption-Part-I/blob/main/images/question_3.1.png)
+
+![question_3.2](https://github.com/AndrewBavuels/Car-Fuel-Consumption-Part-I/blob/main/images/question_3.2.png)
+
+![question_3.3](https://github.com/AndrewBavuels/Car-Fuel-Consumption-Part-I/blob/main/images/question_3.3.png)
+
 ### Question #4: Which of the two fuels is cheaper, E10 or SP 98?
 
 ## **2. Technology stack 💻**
