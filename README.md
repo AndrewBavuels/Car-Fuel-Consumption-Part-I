@@ -105,8 +105,8 @@ I am showing in the previous image, the merge of the gas consumption records to 
 
 It consumes 0.4 liters more with E10 gas, isn't it? **The answer is Not necessarily.**
 
-It depended on the amount of experiments per gas type. That is why I did the Feature Engineering in the first place,
-to mean creating the column **'consume_rate'** to be accurate in tell **which gas type consumes the most.**
+It depended on the number of experiments per gas type. That is why I did the Feature Engineering in the first place,
+to mean creating the column **'consume_rate'** to be accurate in telling **which gas type consumes the most.**
 
 ### Question #4: Which of the two fuels is cheaper, E10 or SP 98?
 
@@ -186,7 +186,7 @@ After this Exploratory Data analysis, **the next experiment will be Machine Lear
     │   └── main.ipynb
     └── README.md    
 ```
-## **6. Next steps 💡**
+## **4. Next steps 💡**
 
 #### Predictions
 
