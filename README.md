@@ -9,23 +9,25 @@ This is the first part of a project series to show a case in which I will apply 
  
 ### _Part I: Exploratory Data Analysis (EDA) Visualization with Python._
 
-For this project, I used a "Car Fuel Consumption" dataset from [Kaggle](https://www.kaggle.com/datasets/anderas/car-consume/). 
-First, I am going to get insights into the current status of the consumption per gas fuel type. After the data cleaning process...
+For this project, I used a "Car Fuel Consumption per gas fuel type" dataset from [Kaggle](https://www.kaggle.com/datasets/anderas/car-consume/). From the Kaggle Dataset context, there are 4 questions formulated:
 
-- Question #1: Which gas type consumes the most? E10 or SP98?
-- Question #2: How much is the consumption?
-- Question #3: It consumes 0.4 liters more with E10 gas, isn't it?
-- Question #4: Which of the two fuels is cheaper, E10 or SP 98?
+- **Question #1:** Which gas type consumes the most? E10 or SP98?
+- **Question #2:** How much is the consume?
+- **Question #3:** It consumes 0.4 liters more with E10 gas, isn't it?
+- **Question #4:** Which of the two fuels is cheaper, E10 or SP 98?
+
+"_All these questions are answered in the notebook of this repository._"
 
 ![Driving Fast And Furious GIF by The Fast Saga](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtkcHMzbTJsODltamZtaDFhN3cxM2d6OTRncWVtYng3OWtkOGIzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2EWa4uTH39d2NTJRGy/giphy.gif)
 
-The EDA execution will depend on the specific needs of your data analysis. Mostly, those key moments happen when:
+### Exploratory Data Analysis Summary:
 
-- Feature Engineering.
-- Relational model to answer questions.
-- Developing new analyses or reports.
-- Modifying the data structure.
-- Performing data maintenance or cleaning.
+- **Performing data maintenance or cleaning:** Duplicates, null-values, outliers
+- **String operations:** Normalize to lowercase, replacing numbers to categorical and vice-versa
+- **Feature Engineering:** Merging features, such as 'consumption rate' based on distance and consumed gas
+- **Relational model to answer questions:** For future project steps
+- **Answering questions from our Exploratory Data Analysis:** The main goal of this repository
+
 
 ### Question #1: Which gas type consumes the most? E10 or SP98?
 
