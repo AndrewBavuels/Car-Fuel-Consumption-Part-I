@@ -78,11 +78,79 @@ Here is the reason why I created a **relational-ish table df**:
 
 ![question_3.1](https://github.com/AndrewBavuels/Car-Fuel-Consumption-Part-I/blob/main/images/question_3.1.png)
 
+I am showing in the previous image, the merge of the gas consumption records to the treated dataset, in order to figure out if E10 is consumed 0.4 liters more than SP98. **Now, with a groupby, I am getting the mean and the median for such consumptions:**
+
+#### Mean Analysis
+
+| gas_type | consume |
+|----------|---------|
+| E10      | 4.781159|
+| SP98     | 4.668020|
+
+#### Code Snippet:
+
 ![question_3.2](https://github.com/AndrewBavuels/Car-Fuel-Consumption-Part-I/blob/main/images/question_3.2.png)
+
+#### Median Analysis
+
+| gas_type | consume |
+|----------|---------|
+| E10      | 4.7     |
+| SP98     | 4.6     |
+
+#### Code Snippet:
 
 ![question_3.3](https://github.com/AndrewBavuels/Car-Fuel-Consumption-Part-I/blob/main/images/question_3.3.png)
 
+
+It consumes 0.4 liters more with E10 gas, isn't it? **The answer is Not necessarily.**
+
+It depended on the amount of experiments per gas type. That is why I did the Feature Engineering in the first place,
+to mean creating the column **'consume_rate'** to be accurate in tell **which gas type consumes the most.**
+
 ### Question #4: Which of the two fuels is cheaper, E10 or SP 98?
+
+From the Kaggle Dataset context:
+
+- **E10** is sold for **€ 1.38**
+- **SP98** is sold for **€ 1.46**
+
+#### Code Snippet:
+
+![question_4](https://github.com/AndrewBavuels/Car-Fuel-Consumption-Part-I/blob/main/images/question_4.png)
+
+#### Comparative Price Analysis between E10 and SP98
+
+In this analysis, we compare the mean and median prices paid for two types of gasoline: E10 and SP98.
+
+#### Mean Price
+
+The mean price is the average of all prices paid for each type of gasoline. Here are the results:
+
+- **Mean price of E10**: 6.598
+- **Mean price of SP98**: 6.815
+
+This means that, on average, the price paid for E10 is lower than the price paid for SP98.
+
+**Is E10 cheaper than SP98?** Yes, on average, E10 is cheaper than SP98.
+
+#### Median Price
+
+The median price is the middle value in a set of data when it is ordered from lowest to highest. Here are the results:
+
+- **Median price of E10**: 6.486
+- **Median price of SP98**: 6.716
+
+This means that if we order all the prices paid for each type of gasoline, the central value for E10 is lower than the central value for SP98.
+
+**Is E10 cheaper than SP98?** Yes, according to the median prices, E10 is cheaper than SP98.
+
+### Conclusion
+
+Both the mean and median price analyses indicate that **E10 is generally cheaper than SP98.** This information can be useful for consumers looking for more economical options when choosing the type of gasoline for their vehicles.
+
+After this Exploratory Data analysis, **the next experiment will be Machine Learning training models for Gas Consumption predictions.** We export the 'pre-processed' dataset as follows:
+
 
 ## **2. Technology stack 💻**
 
