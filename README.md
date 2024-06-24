@@ -15,7 +15,16 @@ First, I am going to get insights into the current status of the consumption per
 - Question #1: Which gas type consumes the most? E10 or SP98?
 
 ![question_1](https://github.com/AndrewBavuels/Car-Fuel-Consumption-Part-I/blob/main/images/question_1.png)
+
+We can observe the **consume rate (liter per kms),** regarding the car speed records, is **higher** for the gas type **SP98**
+
 - Question #2: How much is the consumption?
+
+| gas_type | count | mean     | std      | min  | 25%    | 50%    | 75%    | max  |
+|----------|-------|----------|----------|------|--------|--------|--------|------|
+| E10      | 138.0 | 0.304058 | 0.125085 | 0.04 | 0.22   | 0.295  | 0.3975 | 0.68 |
+| SP98     | 197.0 | 0.321421 | 0.126652 | 0.09 | 0.24   | 0.310  | 0.4000 | 0.73 |
+
 - Question #3: It consumes 0.4 liters more with E10 gas, isn't it?
 - Question #4: Which of the two fuels is cheaper, E10 or SP 98?
 
