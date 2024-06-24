@@ -13,6 +13,8 @@ For this project, I used a "Car Fuel Consumption" dataset from [Kaggle](https://
 First, I am going to get insights into the current status of the consumption per gas fuel type. After the data cleaning process...
 
 - Question #1: Which gas type consumes the most? E10 or SP98?
+
+[question_1](https://github.com/AndrewBavuels/Car-Fuel-Consumption-Part-I/blob/main/images/question_1.png)
 - Question #2: How much is the consumption?
 - Question #3: It consumes 0.4 liters more with E10 gas, isn't it?
 - Question #4: Which of the two fuels is cheaper, E10 or SP 98?
