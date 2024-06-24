@@ -1,6 +1,6 @@
 # **Car Fuel Consumption Part I - Analysis and Predictions 🚗📈🔮**
 
-The goal for this project was to be more prepared for the next technical assessment as part of a selection process. Once more, I want to show a case in which I will apply **advanced analytics** involving **data visualization** and **predictions with machine learning** regarding Car Fuel Consumption.
+This is the first part of a project series to show a case in which I will apply **advanced analytics,** involving data visualization and **predictions with Machine Learning,** regarding Car Fuel Consumption.
 
 ![Let's Get the Party Started](https://media.giphy.com/media/lNGyr4FWfRO8S8LARn/giphy.gif)
 
@@ -10,7 +10,7 @@ The goal for this project was to be more prepared for the next technical assessm
 ### _Part I: Exploratory Data Analysis (EDA) Visualization with Python._
 
 For this project, I used a "Car Fuel Consumption" dataset from [Kaggle](https://www.kaggle.com/datasets/anderas/car-consume/). 
-First, I am going to get insights into the current status about how much is the consumption per gas fuel type. After the data cleaning process...
+First, I am going to get insights into the current status of the consumption per gas fuel type. After the data cleaning process...
 
 - Question #1: Which gas type consumes the most? E10 or SP98?
 - Question #2: How much is the consumption?
