@@ -85,8 +85,28 @@ To show what it looks like in action, [click here](https://github.com/AndrewBavu
 ```
 ## **6. Next steps 💡**
 
-- Develop an action plan to address problem areas identified in the 80-20
-- Establish a multidisciplinary team with clearly defined roles to address the problem areas identified in the 80-20
+
+#### Predictions
+
+- Do you have any hypothesis?
+- Can you make any kind of prediction: regression and/or classification?
+
+#### Storytelling
+
+- What metrics are you obtaining?
+- Explain your conclusions
+- Shape your new data and conclusions in such a way that is appealing to the listener and tells a story
+
+
+### Extra:
+#### Enrich your dataset
+
+- Add value: obtain related data by web scraping or with APIs.
+
+#### Database
+
+- Load the processed information into a database
+
 ***
 - Automate the connection with new data in the reporting system
 - Integrate other data formats such as MySQL, PostgreSQL, JSON, XML
