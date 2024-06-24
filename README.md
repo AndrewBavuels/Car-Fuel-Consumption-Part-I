@@ -19,16 +19,6 @@ First, I am going to get insights into the current status of the consumption per
 
 ![Driving Fast And Furious GIF by The Fast Saga](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtkcHMzbTJsODltamZtaDFhN3cxM2d6OTRncWVtYng3OWtkOGIzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2EWa4uTH39d2NTJRGy/giphy.gif)
 
-### I. Exploratory Data Analysis (EDA)
-
-Here is a little extract from Jupyter Notebook, using Python and their libraries (described down in the Technology Stack section).
-
-![EDA_with_Python](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/EDA%20with%20Python.png)
-
-Remember when I first detected the **outliers** in the Power BI visualization? Well, this is the part and I am performing their handling per each **customer segment**
-
-
-
 The EDA execution will depend on the specific needs of your data analysis. Mostly, those key moments happen when:
 
 - Feature Engineering.
