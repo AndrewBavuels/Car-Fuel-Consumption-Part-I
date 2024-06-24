@@ -100,13 +100,7 @@ Both gas types show similar patterns in terms of distribution and spread **(std)
 #### Computing environment
 - [Jupyter Notebooks](https://jupyter.org/)
 
-
-## **3. Report Demo 📊📈📉**
-
-To show what it looks like in action, [click here](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/report/Dunder%20Mifflin%20Sales%20Report.pbix).
-> **_Note:_** The demo is also contained in the **report** folder.
-
-## **4. Folder structure 📁**
+## **3. Folder structure 📁**
 ```
 └── project
     ├── data
@@ -120,31 +114,19 @@ To show what it looks like in action, [click here](https://github.com/AndrewBavu
 ```
 ## **6. Next steps 💡**
 
-
 #### Predictions
 
 - Do you have any hypothesis?
 - Can you make any kind of prediction: regression and/or classification?
 
-#### Storytelling
 
-- What metrics are you obtaining?
-- Explain your conclusions
-- Shape your new data and conclusions in such a way that is appealing to the listener and tells a story
+#### Enriching the dataset
 
-
-### Extra:
-#### Enrich your dataset
-
-- Add value: obtain related data by web scraping or with APIs.
+- Obtain related data by web scraping or with APIs.
 
 #### Database
 
 - Load the processed information into a database
-
-***
-- Automate the connection with new data in the reporting system
-- Integrate other data formats such as MySQL, PostgreSQL, JSON, XML
 
 ###  **Contact info📧**
 For further information, reach me at andres.buelvas.diago.01@gmail.com
