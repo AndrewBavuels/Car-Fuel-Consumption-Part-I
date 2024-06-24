@@ -34,6 +34,18 @@ We can observe the **consume rate (liter per kms),** regarding the car speed rec
 | E10      |   0.304058   | 43.289855 |
 | SP98     |   0.321421   | 41.497462 |
 
+### Median Analysis
+
+| gas_type | consume_rate |   speed   |
+|----------|--------------|-----------|
+| E10      |      0.295   |    42.0   |
+| SP98     |      0.310   |    41.0   |
+
+- **E10** has a **mean consumption rate** of 0.304 and a **median** of 0.295.
+- **SP98** has a **mean consumption rate** of 0.321 and a **median** of 0.310.
+
+Both gas types show similar patterns in terms of distribution and spread **(std)**, with **SP98 having a slightly higher average consumption rate** compared to E10.
+
 - Question #3: It consumes 0.4 liters more with E10 gas, isn't it?
 - Question #4: Which of the two fuels is cheaper, E10 or SP 98?
 
