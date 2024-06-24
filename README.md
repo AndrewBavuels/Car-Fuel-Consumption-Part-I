@@ -20,14 +20,15 @@ For this project, I used a "Car Fuel Consumption per gas fuel type" dataset from
 
 ![Driving Fast And Furious GIF by The Fast Saga](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtkcHMzbTJsODltamZtaDFhN3cxM2d6OTRncWVtYng3OWtkOGIzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2EWa4uTH39d2NTJRGy/giphy.gif)
 
-### Exploratory Data Analysis Summary:
+### Exploratory Data Analysis => Summary:
 
 - **Performing data maintenance or cleaning:** Duplicates, null-values, outliers
 - **String operations:** Normalize to lowercase, replacing numbers to categorical and vice-versa
 - **Feature Engineering:** Merging features, such as 'consumption rate' based on distance and consumed gas
-- **Relational model to answer questions:** For future project steps
+- **Relational model transformation:** For future project steps
 - **Answering questions from our Exploratory Data Analysis:** The main goal of this repository
 
+### Highlights:
 
 ### Question #1: Which gas type consumes the most? E10 or SP98?
 
