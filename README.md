@@ -1,4 +1,4 @@
-# **Car Fuel Consumption Part I - Analysis and Predictions 🚗📈🔮**
+# **Car Fuel Consumption Part I - Analysis before Predictions 🚗📈🔮**
 
 This is the first part of a project series to show a case in which I will apply **advanced analytics,** involving data visualization and **predictions with Machine Learning,** regarding Car Fuel Consumption.
 
